@@ -81,7 +81,7 @@ The GUI version of the quiz performs the following steps:
 5. Displays the final score in a message box at the end of the quiz.
 
 
-```
+
 
 ### Contact
 
